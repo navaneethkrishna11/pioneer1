@@ -1,0 +1,16 @@
+[
+......
+  {
+  # info of previous user
+  },
+    {
+    "name": "Navaneeth krishna",
+    "githubUsername": "navaneethkrishna11", 
+    "storeName": "pioneer agencies", # Name of the Store -> Not longer than 30 characters
+    "storeType": "water purifier shop", # From amongst the five categories Supermarkets, Texitile Stores, Jewellery Stores, Medical Stores, General Stores select one.
+    "storeDescription": "MI Building, Pan Bazar, Tirur, Malappuram - 676101 (Near Chithrasagar Theature).", 
+     "githubLink": "https://github.com/navaneethkrishna11/pioneer1", 
+    "hostedLink": "https://navaneethkrishna11.github.io/pioneer1/",
+    "storeImage": "https://github.com/navaneethkrishna11/pioneer1/blob/main/pic/pion.png" 
+  }
+]
